@@ -1,0 +1,6 @@
+/home/toniferr/Workspace/peeper-Spring6-SpringDataRest/src/main/java/com/toniferr/springdatarest/domain/Beer.java
+/home/toniferr/Workspace/peeper-Spring6-SpringDataRest/src/main/java/com/toniferr/springdatarest/domain/Customer.java
+/home/toniferr/Workspace/peeper-Spring6-SpringDataRest/src/main/java/com/toniferr/springdatarest/bootstrap/BeerLoader.java
+/home/toniferr/Workspace/peeper-Spring6-SpringDataRest/src/main/java/com/toniferr/springdatarest/repositories/BeerRepository.java
+/home/toniferr/Workspace/peeper-Spring6-SpringDataRest/src/main/java/com/toniferr/springdatarest/PeeperSpringDataRestApplication.java
+/home/toniferr/Workspace/peeper-Spring6-SpringDataRest/src/main/java/com/toniferr/springdatarest/domain/BeerStyleEnum.java

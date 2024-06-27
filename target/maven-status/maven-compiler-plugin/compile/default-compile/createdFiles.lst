@@ -1,0 +1,8 @@
+com/toniferr/springdatarest/domain/Customer.class
+com/toniferr/springdatarest/bootstrap/BeerLoader.class
+com/toniferr/springdatarest/repositories/BeerRepository.class
+com/toniferr/springdatarest/domain/Beer$BeerBuilder.class
+com/toniferr/springdatarest/domain/BeerStyleEnum.class
+com/toniferr/springdatarest/PeeperSpringDataRestApplication.class
+com/toniferr/springdatarest/domain/Beer.class
+com/toniferr/springdatarest/domain/Customer$CustomerBuilder.class
